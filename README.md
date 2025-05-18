@@ -9,8 +9,3 @@ Scraping job portals to fetch information /required fields from it including app
 
 How to run:
 Download the ipynb file install the dependencies and run the file in jupyter / Google colab.
-<<<<<<< HEAD
-
-
-=======
->>>>>>> a356ab81960b682ec08edc6a613edcdef17f3004
